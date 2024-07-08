@@ -1,0 +1,503 @@
+id,car_variant,year_of_vehicle_manufacture,month_of_vehicle_manufacture,odometer_reading,Odometer_Reading_Present,vehicle_fuel_type,registered_color,vehicle_make,vehicle_model,accidental_vehicle,city,car_valuation
+90,LXI Option,2015,10,,0,Petrol,,Maruti,Swift 2014-2021,,NEW DELHI,334426
+303,VXI Optional,2015,8,148832,1,Petrol,,Maruti,Alto K10,,Udaipur,227600
+559,LXI BS IV,2015,9,25000,1,Petrol + CNG,,Maruti,WAGON R,,Thane,425851
+605,RXL,2019,JANUARY,,0,Petrol + CNG,,Renault,KWID,,Surat,390298
+445,RXT,2016,2,,0,Petrol,,Renault,KWID 2015-2019,,Mandya,368048
+324,kwid Rxt,2016,6,,0,Petrol,,Renault,kwid Rxt,,Tirukovilur,331739
+414,Sharp CVT,2022,11,8536,1,Petrol,,MG,Hector,,Delhi,1726828
+29,RENAULT DUSTER RXL,2012,12,,0,Diesel,,RENAULT INDIA PVT LTD,RENAULT DUSTER RXL,,Coimbatore,550843
+143,VXi,2015,2,,0,Petrol,,Maruti,Ritz,,Bangalore,281093
+390,ZDi Plus,2019,8,142729,1,Diesel,,Maruti,Ertiga,,Udaipur,964535
+501,Asta,2015,1,84123,1,Diesel,,Hyundai,i20,,Nagpur,408000
+180,SPORTZ VTVT BSIV,2016,10,,0,Petrol,,HYUNDAI,I20,,Chennai,571926
+165,VTVT SX 1 6,2013,1,,0,Petrol,,HYUNDAI,VERNA,,Chennai,483178
+221,XV DCI BSIV,2014,6,,0,Diesel,,NISSAN,SUNNY DCI XV BSIV,,Chennai,472896
+623,VXI Optional,2021,1,113270,1,Petrol,,Maruti,CELERIO,,Ashok Nagar,574000
+283,1.5 TDI MT,2017,1,,0,Diesel,,Skoda,Rapid,,Rajkot,619821
+734,EX 4X2,2016,12,70357,1,Diesel,,Tata,Safari,,Lucknow,728623
+719,1.5  MT,2015,8,25000,1,Petrol,,Honda,City,,Kalyan,595172
+392,Sportz,2016,9,101200,1,Petrol,,Hyundai,Grand i10 Nios,,Bangalore,489644
+209,1.2 Revotron XT,2020,11,47971,1,Petrol,,Tata,TIAGO,,Nagpur,543951
+383,BMW 5200,2014,7,,0,Diesel,,BMW,BMW,,South Delhi,2612364
+627,LXi,2023,3,1157,1,Petrol,,Maruti,Swift,,Delhi,604039
+239,S CNG,2022,2,25634,1,Petrol + CNG,,Hyundai,Aura,,Bhiwandi,806500
+648,7 Seater STD,2019,5,50999,1,Petrol + CNG,,Maruti,Eeco,,Sonipat,468734
+126,Sportz,2020,8,41044,1,Petrol,,Hyundai,i20,,Morbi,692792
+477,RXT,2017,5,68601,1,Petrol + CNG,,Renault,KWID,,Rajkot,328780
+555,ZXi,2022,5,27503,1,Petrol,,Maruti,Swift,,Pune,704976
+753,CNG LXI,2020,2,92058,1,Petrol + CNG,,Maruti,WAGON R,,Kolhapur,573100
+440,1.2 HIGHLINE,2017,1,,0,Petrol,,Volkswagen,AMEO,,Rajkot,398041
+167,VXI 1.2,2021,7,94525,1,Petrol,,Maruti,Dzire,,Mahabubnagar,660000
+211,GTX Plus,2020,9,91825,1,Petrol,,Kia,Seltos,,Cuddapah,1638500
+345,Zeta,2019,8,,0,Petrol,,Maruti,XL6,,Bangalore,926146
+774,POLO 1 2 M PIHIGHLINE PLUS,2017,10,,0,Petrol,,Volkswagen,POLO 1 2 M PIHIGHLINE PLUS,,Pondicherry,571360
+14,Sportz,2019,11,10831,1,Petrol,,Hyundai,Grand i10 Nios,,Ludh2670,635800
+759,Camper,2014,6,147359,1,Diesel,,Mahindra,Bolero,,Bangalore,506400
+137,GT TSI BSIV,2015,5,66427,1,Petrol,,Volkswagen,Polo,,Hyderabad,695300
+134,Green VXI,2017,12,59644,1,Petrol + CNG,,Maruti,CELERIO,,Pune,470000
+763,ZXI Plus AMT,2018,8,65000,1,Petrol,,Maruti,SWIFT,,Pune,777087
+76,Vxi BSIV,2016,10,152659,1,Petrol + CNG,,Maruti,Swift,,Rajkot,456000
+94,AMT ZXI BS IV,2020,11,80427,1,Petrol,,Maruti,Dzire,,Shivpuri,764600
+122,AMAZE 1.2 V MT (I-VTEC),2016,2,,0,Petrol,,HONDA,AMAZE 1.2 V MT,,Noida,400334
+612,1.4 CRDi Asta,2019,4,98469,1,Diesel,,Hyundai,i20,,Cuddalore,735900
+224,Zeta,2016,3,88759,1,Petrol,,Maruti,Baleno,,Delhi,478648
+223,2.0 Limited 4X4,2022,4,5447,1,Diesel,,Jeep,Compass,,Nizamabad,2848149
+456,Vxi,2022,6,31728,1,Petrol,,Maruti,Swift,,Faridabad,677900
+66,LXi,2018,3,96815,1,Petrol,,Maruti,Alto 800,,Jaipur,294600
+660,LXi,2021,2,91597,1,Petrol,,Maruti,Swift,,Gurgaon,554614
+179,S i-VTEC,2022,7,107652,1,Petrol,,Honda,Amaze,,Ghaziabad,712373
+697,VDi,2015,1,154328,1,Diesel,,Maruti,Swift,,Bangalore,510875
+222,mFALCON D75 K8,2018,4,57935,1,Diesel,,Mahindra,KUV 100,,Kodgu,663800
+287,VDi,2016,2,148542,1,Diesel,,Maruti,SWIFT,,Cuddalore,586300
+288,VXI Plus,2017,9,,0,Petrol,,Maruti,Wagon R,,Bangalore,498526
+151,PRIME T CRDI BSIV,2018,2,,0,Diesel,,HYUNDAI,GRAND I10,,Kancheepuram,440368
+637,ERTIGA,2016,9,,0,Diesel,,MARUTI SUZUKI INDIA LTD,VDI,,Delhi,632643
+628,HTX G,2020,12,57246,1,Petrol,,Kia,Seltos,,Faridabad,1346000
+640,WR V 1.2 VX MT,2017,9,,0,Petrol,,Honda,WR V 1.2 VX MT,,Hyderabad,552963
+106,1.4 CRDi Asta,2015,5,139659,1,Diesel,,Hyundai,i20,,Tiruppur,569980
+85,ZXi,2019,11,13477,1,Petrol,,Maruti,Ertiga,,Mangalore,1011607
+281,2 5 G,2014,7,,0,Diesel,,TOYOTA,INNOVA,,Chennai,1256342
+68,1.2 DURATEC PETROL ZXI,2012,1,,0,Petrol,,FORD,FIGO,,Chennai,250641
+111,SV MT,2014,5,117275,1,Petrol,,Honda,City,,Jaipur,505000
+236,S,2020,10,21310,1,Petrol,,Hyundai,Venue,,Surat,842600
+352,LXi,2019,12,27723,1,Petrol,,Maruti,Alto,,Gurgaon,327254
+578,2.5 E,2014,8,137578,1,Diesel,,Toyota,Innova / Crysta,,Shivamoga,1073500
+767,VDi,2014,5,80347,1,Diesel,,Maruti,Swift,,Rajkot,439215
+1,RXL DCI BS,2016,1,,0,Diesel,,RENUALT,DUSTER,,Chennai,776640
+241,Vxi,2020,8,60560,1,Petrol,,Maruti,Swift,,Faridabad,622500
+261,VXI 1.2,2022,6,20543,1,Petrol,,Maruti,Dzire,,New Delhi,816100
+142,LXI CNG,2018,2,,0,Petrol + CNG,,Maruti,Wagon R,,Delhi,470867
+540,CIAZ,2018,3,,0,Petrol,,Maruti,Ciaz S,,Bangalore,719388
+454,LXI Optional,2016,11,45850,1,Petrol,,Maruti,Alto K10,,Ghaziabad,260389
+577,VXI BS IV,2016,4,56021,1,Petrol,,Maruti,WAGON R,,Haryana,343670
+485,DCI RXZ JSRGW4,2016,6,,0,Diesel,,RENAULT NISSAN,RENAULT LODGY,,Cuddalore,591138
+292,SX iMT,2022,1,42479,1,Diesel,,Hyundai,Venue,,Nagpur,1162600
+567,Magna,2016,6,58322,1,Petrol,,Hyundai,i20,,Ghaziabad,464200
+332,ZXi Plus,2017,1,65160,1,Petrol,,Maruti,Ertiga,,Puthur,833500
+27,VTVT 1.6 SX,2013,6,137575,1,Petrol + CNG,,Hyundai,Verna,,Nashik,440900
+49,Sportz,2019,2,160748,1,Petrol + CNG,,Hyundai,Grand i10,,Rajsamand,432685
+128,RAPID STYLE PLUS AT 1 5 TDI CR,2016,1,,0,Diesel,,SKODA AUTO INDIA PVT LTD,RAPID STYLE PLUS AT 1 5 TDI CR,,Coimbatore,725391
+348,Magna,2019,1,93343,1,Petrol + CNG,,Hyundai,Grand i10,,Pune,452504
+0,Asta 1.4 CRDi,2015,7,75800,1,Diesel,,Hyundai,i20,,Jaipur,604212
+556,Vxi,2016,7,100909,1,Petrol,,Maruti,Alto K10,,West Delhi,286501
+175,1.5 DV5 MT Titanium,2013,9,,0,Diesel,,Ford,Ecosport,,Jaipur,355687
+583,Vxi,2022,3,7618,1,Petrol,,Maruti,Swift,,Ghaziabad,626269
+176,LX 4-Str Hard Top Diesel,2021,4,25239,1,Diesel,,Mahindra,Thar,,Delhi,1473837
+620,1.2 Revotron XM,2019,1,59207,1,Petrol,,Tata,Nexon,,Ghaziabad,602918
+388,XE,2019,8,62319,1,Diesel,,Tata,Bolt,,Hoshiarpur,501500
+617,1.2 Revotron XB,2018,12,49081,1,Petrol,,Tata,TIAGO,,Delhi,545000
+503,1.6 CRDi SX Option,2019,4,25085,1,Diesel,,Hyundai,Verna,,Jaipur,986252
+340,1.2 V i VTEC,2017,5,34300,1,Petrol,,Honda,Jazz,,Coimbatore,582972
+116,XE 85 PS,2016,3,,0,Diesel,,Nissan,Terrano 2013-2017,,Coimbatore,745356
+560,Magna,2017,1,69219,1,Petrol,,Hyundai,Grand i10,,Delhi,393800
+699,LXI CNG,2021,4,44220,1,Petrol + CNG,,Maruti,WAGON R,,Gwalior,592300
+552,ALTO 800 GREEN LXI,2017,6,61144,1,Petrol + CNG,,MARUTI,ALTO 800,,Ghaziabad,289289
+387,T O,2018,10,,0,Petrol,,NISSAN,REDIGO,,New Delhi,258461
+11,ACTIVE CRDI SX BS4,2015,6,,0,Diesel,,HYUNDAI,I20,,Pudukkottai,638257
+217,LXi,2018,3,102762,1,Petrol + CNG,,Maruti,WAGON R,,Pune,407934
+339,1.6 Highline,2014,1,,0,Diesel,,Volkswagen,Vento 2013-2015,,Bangalore,653447
+429,HTX G,2021,1,18553,1,Petrol,,Kia,Seltos,,North Delhi,1196960
+537,2.4 GX 7 STR,2017,4,124708,1,Diesel,,Toyota,Innova / Crysta,,Cuddalore,1500000
+695,Vxi,2021,10,52308,1,Petrol,,Maruti,Swift,,Udaipur,735651
+225,VDI,2014,5,,0,Diesel,,Maruti,Swift Dzire,,Jaipur,506125
+741,E MPI STD BSIV,2014,9,153066,1,Petrol,,Maruti,Omni,,Tarikere,240000
+381,Sportz AT,2015,12,79602,1,Diesel,,Hyundai,i10,,Junagadh,440300
+494,LDi Option,2018,2,57615,1,Diesel,,Maruti,Vitara Brezza,,Ludhiana,628900
+53,VDI,2016,12,,0,Diesel,,Maruti,Swift 2016,,Ghaziabad,525342
+768,2.4 ZX 7 STR,2014,4,111066,1,Diesel,,Toyota,Innova / Crysta,,Bengaluru,776488
+400,LXi,2016,5,44340,1,Petrol,,Maruti,Alto,,Ludhiana,277800
+459,1.2 Revotron XE,2021,8,45778,1,Petrol,,Tata,Tiago,,South Delhi,412358
+554,Vxi,2022,5,9893,1,Petrol,,Maruti,Swift,,Tumakuru,732200
+159,CNG LXI,2022,3,33977,1,Petrol + CNG,,Maruti,Wagon R,,Thane,628500
+23,XMS 1 2 RT 90PS ABS,2015,1,,0,Petrol,,TATA,ZEST,,Kancheepuram,346452
+342,SMART HYBRID VXI,2020,11,,0,Petrol,,MARUTI SUZUKI INDIA LTD,ERTIGA,,Kancheepuram,935161
+413,Sportz,2016,3,,0,Petrol,,Hyundai,i20,,Bangalore,578644
+331,VLX AT AIRBAG BSIV,2014,7,,0,Diesel,,Mahindra,Scorpio 2009-2014,,Bangalore,691283
+199,CRETA 1.6 VTVT SX O,2019,8,,0,Petrol,,HYUNDAI,CRETA 1.6 VTVT SX O,,Warangal,1376825
+302,SMT,2012,4,,0,Petrol,,Honda,Brio 2011-2013,,Palam,210691
+101,COROLLA ALTIS D4DJ,2014,7,,0,Diesel,,TOYOTA,COROLLA ALTIS,,Rajkot,606881
+226,Magna,2015,8,82829,1,Diesel,,Hyundai,Grand i10,,Ludhiana,420100
+243,EECO 5 SEATER WITH AC HTR,2021,8,,0,Petrol + CNG,,Maruti,Eeco,,Delhi,480403
+760,S11,2020,7,92261,1,Diesel,,Mahindra,Scorpio,,Rajkot,1440754
+524,Accomplished MT,2021,11,20408,1,Petrol,,Tata,Punch,,Karanja,760918
+582,VERNA 1 6 CRDI SX,2014,6,,0,Diesel,,Hyundai,VERNA 1 6 CRDI SX,,Hyderabad,541532
+432,1.6 CRDI,2012,6,,0,Diesel,,Hyundai,Verna 2011-2014,,Rajkot,428140
+647,ZDi,2018,5,53000,1,Diesel,,Maruti,Vitara Brezza,,Meerut,760000
+253,S i-VTEC,2015,2,78921,1,Petrol,,Honda,Amaze,,Meerut,370200
+264,VX CVT Diesel,2018,9,114023,1,Diesel,,Honda,Amaze,,Chennai,854600
+203,Sigma,2021,4,29502,1,Petrol + CNG,,Maruti,Baleno,,Faridabad,613480
+416,1.4 CRDi,2019,7,47277,1,Diesel,,Hyundai,Venue,,Lucknow,867172
+230,1.0L MPI,2018,10,,0,Petrol,,Volkswagen,Polo,,Bangalore,780684
+157,1.6 CRDI SX,2018,8,86543,1,Diesel,,Hyundai,Verna,,Gurdwara Patiala,928890
+775,1.5 V i DTEC,2017,7,79390,1,Diesel,,Honda,Jazz,,Mangalore,605816
+632,XM,2018,7,,0,Petrol,,Tata,Nexon,,Bangalore,689881
+408,VTVT S,2016,11,103742,1,Petrol,,Hyundai,Elantra,,Salem,789500
+119,LXI,2018,4,35385,1,Petrol,,MARUTI,ALTO 800,,Delhi,315641
+354,1.0LTSI,2022,9,13636,1,Petrol,,Volkswagen,Taigun,,Hyderabad,1568000
+749,LXi,2014,5,57354,1,Petrol + CNG,,Maruti,Wagon R,,New Delhi,290070
+657,1.5 SV MT I DTEC,2014,7,,0,Diesel,,HONDA,CITY,,Chennai,720606
+590,T Option,2017,5,23827,1,Petrol,,Datsun,RediGO,,Udaipur,221079
+229,ZDi,2014,5,211620,1,Diesel,,Maruti,ERTIGA,,Bangalore,580204
+118,EECO 5 SEATER WITH AC HTR,2015,5,,0,Petrol + CNG,,Maruti,Eeco,,Rajkot,352840
+380,GTX Plus,2020,2,35441,1,Diesel,,Kia,Seltos,,Chennai,1889200
+419,LXi,2018,8,42705,1,Petrol,,Maruti,Alto 800,,Mangalore,321622
+189,5 Seater AC,2019,7,26755,1,Petrol + CNG,,Maruti,Eeco,,Ghaziabad,471479
+115,FWD W8,2013,8,,0,Diesel,,Mahindra & Mahindra Limited,XUV500,,Surat,733087
+171,SX Opt iMT,2019,7,94445,1,Diesel,,Hyundai,Venue,,Dahanu,739488
+317,VXI CNG,2020,8,58564,1,Petrol + CNG,,Maruti,Celerio,,Faridabad,564974
+466,1 5 TI VCT P TIT AT,2016,10,,0,Petrol,,FORD,FIGO ASPIRE,,Tiruvallur,643892
+672,Asta,2017,12,24684,1,Petrol,,Hyundai,i20,,Villupuram,668500
+671,FL 1.6 VTVT SXO BSIV,2014,1,,0,Diesel,,HYUNDAI,VERNA,,Chennai,595492
+569,S O,2015,1,,0,Petrol + CNG,,Hyundai,Xcent 2014-2016,,Rajkot,350034
+32,VXI,2019,8,,0,Petrol,,MARUTI SUZUKI INDIA LTD,SWIFT,,Kancheepuram,675200
+586,ASTA 1.4 CRDI,2018,1,,0,Petrol,,Hyundai,I20 ASTA 1.4 CRDI,,Bangalore,701153
+166,RxL,2021,7,6544,1,Petrol,,Renault,Triber,,Viluppuram,591708
+107,VXI,2014,11,,0,Petrol,,Maruti,Swift,,Bangalore,474408
+694,2.5 VX (Diesel) 7 Seater,2012,12,,0,Diesel,,Toyota,Innova,,Bangalore,1109857
+183,1.6 VTVT SX Plus,2015,7,145935,1,Petrol + CNG,,Hyundai,Creta,,North Delhi,749602
+534,ZXI AT,2015,11,,0,Petrol,,Maruti,Celerio 2014-2017,,Jaipur,407642
+194,S11,2019,3,118155,1,Diesel,,Mahindra,Scorpio,,Uttar Pradesh,1373300
+275,E,2022,4,34246,1,Diesel,,Hyundai,CRETA,,Shimoga,1231100
+482,Delta,2021,12,23030,1,Petrol,,Maruti,Baleno,,Kolar,800000
+673,1.3 Alpha,2017,3,134041,1,Diesel,,Maruti,Ciaz,,Ludhiana,689300
+525,1.5 TDI Highline Plus,2015,6,66478,1,Diesel,,Volkswagen,Vento,,Nashik,478200
+458,Vxi,2021,12,22105,1,Petrol,,Maruti,Swift,,Rajsamand,674679
+69,AMT VXI BSIV,2019,2,28844,1,Petrol,,Maruti,SWIFT,,Mahabubnagar,657900
+724,1.0 RXT BSIV,2016,11,72274,1,Petrol,,Renault,KWID,,Coimbatore,358100
+170,ZLX BSIII,2016,3,106017,1,Diesel,,Mahindra,Bolero,,Salem,820000
+752,HIGHLNE,2013,6,,0,Diesel,,Volkswagen,Polo,,Rajkot,465205
+59,1.6 SX Diesel,2016,11,104780,1,Diesel,,Hyundai,Creta,,Ludhiana,832300
+172,1.6 CRDI SX,2015,11,101328,1,Diesel,,Hyundai,CRETA,,Yavatmal,832000
+88,1 6 VTVT SXP,2015,7,,0,Petrol,,HYUNDAI,CRETA 1 6 VTVT SXP,,Coimbatore,948666
+575,VDi,2017,2,65570,1,Diesel,,Maruti,Swift Dzire,,Patiala,655613
+729,zxi,2013,11,,0,Petrol,,Maruti,ERTIGA,,Malad East,538367
+473,Zeta,2021,6,57642,1,Petrol,,Maruti,BALENO,,Baramati,694465
+517,E MT,2014,7,67295,1,Petrol,,Honda,Brio,,Ghaziabad,278836
+596,ZXi,2021,7,48390,1,Petrol,,Maruti,Ertiga,,Vellore,1087500
+492,VXI,2018,6,,0,Petrol,,Maruti Suzuki india ltd,Maruti Dzire VXI,,PUDUKOTTAI,650519
+210,CNG LXI Opt,2021,3,41913,1,Petrol + CNG,,Maruti,Wagon R,,New Delhi,537108
+677,VDI,2015,12,,0,Diesel,,Maruti,Swift Dzire,,Jaipur,654948
+363,CIAZ S,2018,3,,0,Petrol,,Maruti,Ciaz s,,Bangalore,702011
+67,85 PS RXL,2014,2,77568,1,Diesel,,Renault,Duster,,Surat,529935
+688,VX i-DTEC,2019,6,80743,1,Diesel,,Honda,Amaze,,Jaipur,790698
+246,Era,2014,7,74608,1,Petrol,,Hyundai,EON,,Khopoli,280000
+438,1 2 MPI COMFORTLINE,2015,6,,0,Petrol,,VOLKSWAGEN,POLO,,Chennai,459376
+244,2WD,2019,8,50666,1,Diesel,,Isuzu,MUX,,Bang441,2345300
+778,Titanium Diesel,2018,5,96613,1,Diesel,,Ford,Freestyle,,Ghaziabad,495593
+181,LXI 1.2,2020,8,20741,1,Petrol,,Maruti,Dzire,,Puducherry,603196
+629,LXi,2023,4,4676,1,Petrol,,Maruti,Swift,,Gurgoan,606200
+293,VDi,2015,10,166723,1,Diesel,,Maruti,Ertiga,,Thane,667700
+772,G,2021,1,49700,1,Petrol,,Toyota,Glanza,,Ballabgarh,722936
+50,Zeta,2020,7,66042,1,Petrol,,Maruti,Baleno,,Ludhiana,707100
+489,1.5 TDI Comfortline,2017,3,88448,1,Diesel,,Volkswagen,Ameo,,Coimbatore,525830
+444,XM,2019,5,,0,Diesel,,Tata,Nexon,,NEW DELHI,650770
+455,INNOVA CRYSTA,2014,7,,0,Diesel,,Toyota,Innova Crysta 2016-2020,,Jaipur,1037622
+580,C CLASS 220 BLUEEFFICIENCY,2012,6,,0,Diesel,,MERCEDES,C CLASS 220 BLUEEFFICIENCY,,Tiruvannamalai,1486595
+531,W10 2WD,2017,3,86455,1,Diesel,,Mahindra,XUV500,,Nagpur,833714
+664,ZDi,2016,5,100400,1,Diesel,,Maruti,Vitara Brezza,,Bangalore,710000
+676,1.4 CRDi S,2017,6,87513,1,Diesel,,Hyundai,CRETA,,Udaipur,869500
+206,Vxi,2021,10,38731,1,Petrol,,Maruti,Swift,,Palwal,647169
+598,VXI AMT,2019,9,53787,1,Petrol,,Maruti,SWIFT,,Pune,477293
+591,S,2019,7,15448,1,Petrol,,Hyundai,Venue,,Nagpur,790448
+375,M8,2019,1,26239,1,Diesel,,Mahindra,Marazzo,,Coimbatore,1370300
+705,WAGON R VXI,2015,8,,0,Petrol,,Maruti,WAGON R VXI,,Hyderabad,394099
+279,E MPI STD BSIV,2018,5,21795,1,Petrol,,Maruti,Omni,,Salem,281400
+536,S CNG,2023,2,6209,1,Petrol + CNG,,Hyundai,Aura,,Palwal,849900
+507,1.5 Diesel Titanium,2017,1,59789,1,Diesel,,Ford,EcoSport,,Thane,741106
+216,MAGNA 1 2 M,2013,2,,0,Petrol,,HYUNDAI,I10,,Tiruvallur,301499
+740,5 Seater AC,2019,8,67624,1,Petrol + CNG,,Maruti,Eeco,,Faridabad,440167
+369,XF 3 0L Premium Luxury,2014,6,80104,1,Diesel,,Jaguar,XF,,Chennai,2906800
+215,Sigma,2018,9,65052,1,Petrol,,Maruti,Baleno,,Lucknow,508663
+406,S6 7 Seater,2017,3,,0,Diesel,,Mahindra,MAHINDRA SCORPIO S6+ 1.99IH2WD,,New Delhi,564280
+512,7 Seater STD,2022,1,43247,1,Petrol,,Maruti,Eeco,,Ghaziabad,489200
+464,1.6 CR MT HIGHLINE,2014,10,,0,Diesel,,VOLKSWAGEN,VENTO,,Coimbatore,580555
+683,SLX,2018,6,152193,1,Diesel,,Mahindra,Bolero Power Plus,,Salem,712041
+733,W7,2018,8,66266,1,Diesel,,Mahindra,XUV500,,Tiruppur,1388959
+129,VXI CNG,2021,1,54665,1,Petrol + CNG,,Maruti,Celerio,,Palwal,633000
+315,1.2 MPI Comfortline,2016,4,73939,1,Diesel,,Volkswagen,Polo,,Kanchipuram,626637
+100,i VTEC CVT VX,2019,4,62425,1,Petrol,,Honda,City,,Nagpur,1064900
+779,1.0 RXL AMT,2021,2,25978,1,Petrol,,Renault,KWID,,Bhilwara,418606
+144,1.6 CRDi SX Option,2017,11,136375,1,Diesel,,Hyundai,CRETA,,Nagpur,1024625
+681,VW POLO GT 1 2 TSI,2015,9,18972,1,Petrol,,Volkswagen,Polo GT,,Coimbatore,726779
+320,W7,2018,9,,0,Diesel,,Mahindra,XUV500,,Bangalore,1186016
+273,Magna Optional 1.4 CRDi,2013,6,,0,Diesel,,Hyundai,i20 2012-2014,,Rajkot,408139
+480,ZXi,2021,12,11444,1,Petrol,,Maruti,Celerio,,Thane,688426
+653,Vxi,2016,12,67650,1,Petrol,,Maruti,WAGON R,,Delhi,321141
+96,Vxi,2021,3,12455,1,Petrol,,Maruti,WAGON R,,Agra,593400
+662,CNG LXI,2016,1,,0,Petrol + CNG,,Maruti,Wagon R,,Delhi,386597
+177,ZDi Plus,2018,2,76928,1,Diesel,,Maruti,Vitara Brezza,,Gurgaur,798862
+347,SX,2023,7,85,1,Petrol,,Hyundai,Verna,,Sultanpur,1330000
+471,1.5 E MT,2014,1,110548,1,Diesel,,Honda,City,,Vijayapura,502958
+298,Sigma,2018,10,,0,Petrol,,Maruti,Ignis,,Delhi,360425
+754,Asta 1.4 CRDi,2015,11,121917,1,Diesel,,Hyundai,i20,,Jamnagar,496200
+603,RXZ,2022,6,17339,1,Petrol,,Renault,Triber,,Pune,716697
+370,1.6 VTVT,2,2,,0,Petrol,,Hyundai,Verna 2011-2014,,Rajkot,434348
+6,ERA,2015,4,,0,Petrol,,Hyundai,EON,,Bangalore,261101
+423,LXi,2020,10,52042,1,Petrol,,Maruti,Swift,,Faridabad,536400
+661,Zeta,2021,10,30000,1,Petrol,,Maruti,Baleno,,Udaipur,713079
+530,S5,2021,7,35424,1,Diesel,,Mahindra,Scorpio,,Delhi,1349272
+633,5 Seater AC,2016,2,70705,1,Petrol + CNG,,Maruti,Eeco,,Ghaziabad,322098
+290,1 5D TIT P MT BSIV,2017,5,87645,1,Diesel,,Ford,EcoSport,,Salem,782100
+268,RAPID ELEGANCE PLUS 1.5 TDI,2015,5,,0,Diesel,,Skoda,RAPID ELEGANCE PLUS 1.5 TDI,,Warangal,598702
+609,VDi,2019,11,43630,1,Diesel,,Maruti,Vitara Brezza,,Faridabad,764993
+651,VXi AT,2021,7,60337,1,Petrol,,Maruti,Ertiga,,Mumbai,1093414
+566,LXi,2021,7,46318,1,Petrol + CNG,,Maruti,Alto,,Ghaziabad,448700
+529,Zeta,2018,11,33980,1,Petrol,,Maruti,Baleno,,Jaipur,683754
+720,Asta 1.4 CRDi,2016,1,92547,1,Diesel,,Hyundai,Elite i20,,Jalgaon,547300
+13,VDI,2017,6,91494,1,Diesel,,Maruti,ERTIGA,,Bhayander,809300
+304,LDi,2016,2,192066,1,Diesel,,Maruti,Ritz,,Cuddalore,394800
+47,ZDi Plus,2017,8,128154,1,Diesel,,Maruti,Vitara Brezza,,Gautam Buddha Nagar,763392
+34,G,2014,11,58802,1,Petrol,,Toyota,Etios,,Puducherry,456600
+595,TATA NEXON XZ P,2017,10,,0,Diesel,,TATA MOTORS LTD,TATA NEXON XZ P,,Coimbatore,741132
+162,HYUNDAI  CRETA 1 6 CRDI SX,2015,11,,0,Diesel,,HYUNDAI,HYUNDAI  CRETA 1 6 CRDI SX,,Villupuram,897750
+558,RXZ 110 PS,2013,9,,0,Diesel,,RENAULT,DUSTER,,Tiruvallur,616057
+462,AMAZE 1 5 V MT  I DTEC,2019,7,,0,Diesel,,HONDA,HONDA AMAZE,,Puducherry,717644
+515,1.5 Revotorq XE,2021,4,44571,1,Diesel,,Tata,Nexon,,Faridabad,790052
+218,Vdi BSIV,2015,8,100214,1,Diesel,,Maruti,Swift,,Thane,423430
+121,Delta,2016,1,46314,1,Petrol,,Maruti,Baleno,,Bangalore,538500
+600,VXI,2014,8,,0,Petrol,,MARUTI SUZUKI INDIA LTD,NEW WAGON R,,Tiruvallur,339132
+45,1.4 E Plus,2018,8,146795,1,Diesel,,Hyundai,CRETA,,Manuguru,902500
+405,GRAND I 10 SPORTZ,2019,3,,0,Petrol,,HYUNDAI,GRAND I 10 SPORTZ,,Pondicherry,572273
+644,SWIFT VDI,2012,6,,0,Diesel,,MARUTI SUZUKI INDIA LTD,SWIFT VDI,,Rajkot,323976
+593,2.5 G E4,2014,6,,0,Diesel,,Toyota,Innova 2.5G,,Bangalore,895476
+679,VDi,2018,11,65000,1,Diesel,,Maruti,Ertiga,,Mumbai,839410
+284,VDi,2014,9,109529,1,Diesel,,Maruti,Swift Dzire,,Patiala,383836
+398,VXI 1.2,2022,2,39688,1,Petrol,,Maruti,Dzire,,Delhi,733205
+709,XCENT VTVT SX,2018,7,,0,Petrol,,Hyundai,XCENT VTVT SX,,Hyderabad,465505
+447,VDi,2019,10,70528,1,Diesel,,Maruti,Vitara Brezza,,Faridabad,800000
+145,S6 Plus 7 Seater,2016,10,,0,Diesel,,Mahindra,Scorpio,,NORTH EAST DELHI,624232
+668,INNOVA CRYSTA 2.4 G 8S,2019,1,,0,Diesel,,TOYOTA KIRLOSKAR MOTORS LTD,INNOVA CRYSTA 2.4 G 8S,,Mahabubnagar,1617660
+245,LXI,2019,12,29357,1,Petrol,,Maruti,ALTO,,Udaipur,400000
+164,I 20 ACTIVE CRDI SX,2016,6,,0,Diesel,,Hyundai,I 20 ACTIVE CRDI SX,,Hanamkonda,838491
+488,RXT,2019,2,15916,1,Petrol + CNG,,Renault,KWID,,Delhi,412200
+645,RXT,2019,7,22431,1,Petrol,,Renault,Triber,,Nagpur,592951
+15,7 Seater STD,2018,11,19605,1,Petrol,,Maruti,Eeco,,Pune,434011
+610,RXT BSIV,2016,5,,0,Petrol,,RENAULT,KWID,,Thiruvallur,342655
+46,1.5 V AT,2017,2,59606,1,Petrol,,Honda,City,,Pune,611492
+282,HTK Plus G,2020,7,63271,1,Diesel,,Kia,Seltos,,Palwal,1254790
+704,85PS Diesel STD,2013,8,61846,1,Petrol,,Renault,Duster,,Thane,526650
+251,VDI BSIV,2013,7,,0,Diesel,,MARUTI SUZUKI INDIA LTD,ERTIGA,,Tiruvannamalai,546133
+523,SHVS VDI,2017,2,61014,1,Diesel,,Maruti,Ertiga,,Junagadh,790425
+83,Sportz 1.4 CRDi,2018,8,136674,1,Diesel,,Hyundai,Elite i20,,Ghaziabad,642796
+539,GO T,2014,4,,0,Petrol,,Nissan,DATSUN,,Kalawad,308316
+470,V W POLO 1 2 MPI HIGHLINE,2017,10,22274,1,Petrol,,Volkswagen,Polo GT,,Coimbatore,735071
+506,1.5 Diesel Titanium,2014,12,75768,1,Diesel,,Ford,EcoSport,,Hosur,641768
+152,W8 Option,2019,7,71367,1,Diesel,,Mahindra,XUV300,,Jamnagar,1222300
+465,GL F/L,2014,4,,0,Petrol,,Hyundai,Santro,,ghaziabad,205543
+654,LX D AT 4WD 4S,2022,9,7195,1,Diesel,,Mahindra,Thar,,Rajsamand,1541900
+20,Alpha,2018,4,44044,1,Petrol,,Maruti,Baleno,,Gurgaon,686000
+663,XZ,2020,10,17215,1,Petrol,,Tata,Altroz,,Ghaziabad,761196
+212,2.0 TDI,2013,10,157161,1,Diesel,,Audi,Q5,,Chennai,2007664
+761,Diesel XE,2014,1,79613,1,Diesel,,Nissan,Micra,,Agra,377200
+401,Delta,2021,12,28598,1,Petrol,,Maruti,Baleno,,Gautam Buddha Nagar,676649
+256,Titanium,2016,7,,0,Diesel,,Ford,Ecosport,,Bangalore,841930
+606,1.2 KAPPA MT S,2022,3,28593,1,Petrol,,Hyundai,Venue,,Mudigere,900900
+711,VXI 1.2 BS IV,2017,2,,0,Petrol + CNG,,Maruti,Dzire 2017-2020,,Hapur,469595
+316,Vxi,2015,7,92050,1,Petrol,,Maruti,Swift,,Jaipur,414880
+103,Vxi,2020,12,23739,1,Petrol,,Maruti,Vitara Brezza,,Bangalore,889600
+350,Vxi,2022,11,16245,1,Petrol,,Maruti,Swift,,Ghaziabad,698600
+522,Asta Turbo DCT,2021,8,24622,1,Petrol,,Hyundai,i20,,Pune,1106223
+18,VDI,2013,9,,0,Diesel,,Maruti,Swift,,Puducherry,410921
+235,RxL,2021,3,26970,1,Petrol,,Renault,Triber,,Junagadh,673200
+386,1.2 Revotron XZ Plus,2020,8,92300,1,Petrol,,Tata,Tiago,,Faridabad,443578
+502,1.5 V MT O,2014,7,,0,Diesel,,HONDA CARS INDIA LTD,MOBILIO,,Mysuru,449417
+730,T8,2016,1,38572,1,Diesel,,Mahindra,TUV 300,,Morbi,672883
+686,E PETROL,2015,5,,0,Petrol,,Honda,Jazz,,TIRUVALLUR,476936
+57,MAHINDRA BOLERO ZLX,2015,2,,0,Diesel,,Mahindra and Mahindra limited,MAHINDRA BOLERO ZLX,,Coimbatore,624173
+28,Alpha,2017,8,63562,1,Petrol,,Maruti,Ciaz,,Gurgaon,751100
+520,vxi,2020,2,29105,1,Petrol,,Maruti,WAGON R,,Cuddalore,503100
+402,1.5 V MT,2014,4,118484,1,Petrol,,Honda,City,,Cuddalore,567600
+581,Zxi Optional,2019,4,33252,1,Petrol,,Maruti,CELERIO,,Pudicherry,448700
+33,1.0 TSI Highline Plus,2021,3,16534,1,Petrol,,Volkswagen,Polo,,Coimbatore,908596
+124,ZXi,2021,7,39801,1,Petrol,,Maruti,Swift,,Pune,733812
+625,Magna,2019,1,55483,1,Petrol,,Hyundai,Grand i10,,Ghaziabad,503656
+701,1.2 mt crdi sx o,2020,2,,0,Diesel,,Hyundai,aura,,Kurnool,871325
+322,1.2 CRDi Asta,2015,3,83548,1,Petrol,,Hyundai,Grand i10,,Kancheepuram,458800
+312,EECO  5 STR,2019,5,,0,Petrol,,MARUTI SUZUKI INDIA LTD,EECO  5 STR,,Kalyan,439897
+448,AMBITION 81 KW TDI CR,2017,11,84023,1,Diesel,,Skoda,Rapid,,Ghaziabad,473690
+510,1.2 CRDi Sportz,2018,11,20947,1,Petrol,,Hyundai,Grand i10,,Puducherry,540001
+40,1.5 CRDI MT EX,2021,1,73952,1,Diesel,,Hyundai,Creta,,Gonda,1256700
+374,S6,2015,3,69575,1,Diesel,,Mahindra,Scorpio,,Ghaziabad,540317
+43,ZXI,2014,2,,0,Petrol,,Maruti,Ertiga 2012-2015,,Bangalore,658200
+274,ZLX,2017,8,76421,1,Diesel,,Mahindra,Bolero Power Plus,,Ludhiana,648600
+533,CNG LXI,2019,5,57171,1,Petrol + CNG,,Maruti,Wagon R,,Delhi,461792
+286,ALPHA PETROL,2019,6,,0,Petrol,,Maruti,Baleno,,Bangalore,794372
+478,ETIOS,2017,7,,0,Diesel,,TOYOTA,ETIOS,,Kurnool,662437
+214,ZDI,2019,5,67027,1,Diesel,,Maruti,SWIFT,,Pune,737767
+307,CNG LXI Opt,2021,1,47458,1,Petrol + CNG,,Maruti,Wagon R,,Delhi,536332
+467,PRIME T CRDI BSIV,2018,2,,0,Diesel,,HYUNDAI,GRAND I10,,Chennai,463593
+491,1.4 CRDi S,2018,5,94582,1,Diesel,,Hyundai,CRETA,,Udaipur,876300
+255,G MT,2021,11,13732,1,Petrol,,Toyota,Glanza,,Nagpur,830817
+198,INNOVA CRYSTA 2.4 Z7 SEATER,2017,8,,0,Diesel,,TOYOTA ETIOS,INNOVA CRYSTA 2.4 Z7 SEATER,,Hyderabad,1809893
+127,RXT,2018,7,91106,1,Petrol,,Renault,KWID,,Mangalore,399431
+182,Xuv 500 F WD W8,2014,7,,0,Diesel,,Mahindra,Mahindra Xuv 500 F WD W8,,Villupuram,749662
+702,W8 AWD,2013,5,,0,Diesel,,Mahindra,XUV500 2011-2015,,Rajkot,663861
+323,Ciaz Hybrid,2017,11,85381,1,Diesel,,Maruti,Ciaz Hybrid,,Pune,603311
+294,Sportz,2017,6,112477,1,Petrol,,Hyundai,i20,,Rajsamand,583552
+4,VTVT sx,2014,11,,0,Petrol,,Hyundai,Xcent 2014-2016,,Banglalore,337932
+652,BALENO DELTA,2018,1,,0,Diesel,,Maruti,BALENO DELTA,,Hyderabad,671850
+472,Titanium,2020,10,,0,Petrol,,Ford,EcoSport,,GURGAON,732999
+723,VVT ZXI,2014,2,84708,1,Petrol,,Maruti,SWIFT,,Davangere,473500
+548,1.6 CRDi SX,2020,3,36802,1,Diesel,,Hyundai,Verna,,Ludhiana,1279014
+382,5 Seater AC,2018,12,63354,1,Petrol + CNG,,Maruti,Eeco,,Pune,462000
+52,i VTEC VX,2015,4,97648,1,Petrol,,Honda,City,,Udaipur,488454
+24,LXi,2023,1,3394,1,Petrol,,Maruti,Alto,,Noida,425810
+475,VDi,2016,8,181502,1,Diesel,,Maruti,Vitara Brezza,,Mumbai,619203
+636,RXI 1 0 SC C OPTION,2018,2,,0,Petrol,,RENAULT,KWID,,Tiruvallur,407596
+269,GREEN VXI,2017,7,,0,Petrol,,MARUTI,ERTIGA,,Palghar,668336
+295,RS,2017,4,66464,1,Petrol,,Maruti,Baleno,,Chengalpattu,665700
+113,LXi,2019,2,29547,1,Petrol,,Maruti,ALTO 800,,Udaipur,322300
+123,SX,2020,9,77473,1,Diesel,,Hyundai,CRETA,,Hyderabad,1788000
+240,ZXi,2021,2,44548,1,Petrol,,Maruti,Celerio,,Kolhapur,558700
+257,Vxi,2015,3,48008,1,Petrol,,Maruti,Swift Dzire,,Delhi,473300
+133,320d GT Luxury Line,2015,4,,0,Diesel,,BMW,3 Series 2015-2019,,Bangalore,2439125
+89,1.5 S MT,2017,4,64657,1,Petrol,,Honda,City,,Faridabad,1006617
+51,DCI XV BSIV,2012,6,,0,Diesel,,NISSAN,SUNNY,,Chennai,463952
+594,BALENO ZETA,2018,2,,0,Petrol,,Maruti,BALENO ZETA,,Hyderabad,680892
+260,ZLX,2018,1,63642,1,Diesel,,Mahindra,Bolero Power Plus,,Rajsamand,707900
+335,Sigma,2020,3,42993,1,Petrol,,Maruti,Baleno,,Ghaziabad,591392
+338,2.2 Litre Luxury,2013,8,47556,1,Diesel,,Jaguar,XF,,Chennai,2075400
+371,INNOVA,2015,8,89914,1,Diesel,,TOYOTA,INNOVA,,Thane,1100000
+92,1.4 EXI,2012,3,,0,Diesel,,FORD,FIGO,,Tiruvallur,258832
+641,VXI AMT,2016,3,84960,1,Petrol,,Maruti,Wagon R,,West Delhi,330431
+72,RxL,2019,11,38238,1,Petrol,,Renault,Triber,,Salem,682700
+351,G80 K6 Plus 5Str,2017,2,,0,Petrol,,Mahindra,KUV 100,,KANCHIPURAM,277549
+395,DELTA BSIV,2016,8,,0,Diesel,,MARUTI SUZUKI INDIA LTD,S CROSS,,Chennai,637381
+308,RXT BSIV,2021,10,10850,1,Petrol,,Renault,KWID,,Jaipur,480000
+744,Vdi BSIV,2016,10,25837,1,Diesel,,Maruti,Swift Dzire,,Kolhapur,564000
+150,Vxi,2015,5,78383,1,Petrol + CNG,,Maruti,Alto K10,,Faridabad,251593
+26,1.4 CRDI MT S,2019,11,48748,1,Diesel,,Hyundai,Venue,,Amravati,814718
+74,AMT ZDI,2018,4,100664,1,Diesel,,Maruti,SWIFT,,Jamnagar,726600
+658,vxi,2013,2,,0,Petrol,,hyundai,I10,,Noida,250000
+431,B200 CDI,2014,2,87032,1,Diesel,,Mercedes-Benz,B Class,,Chennai,1107900
+649,N6,2016,4,50913,1,Diesel,,Mahindra,NuvoSport,,South Delhi,355363
+685,XMA,2017,11,131290,1,Diesel,,Tata,Hexa,,Lucknow,946342
+376,Vxi,2020,10,48544,1,Petrol,,Maruti,S-Presso,,Udaipur,506000
+110,VXI BS IV,2015,4,,0,Petrol,,Maruti,Wagon R,,Bangalore,405266
+777,LXi,2019,5,68905,1,Petrol,,Maruti,Swift,,Ghaziabad,473019
+726,LXi,2020,8,55091,1,Petrol,,Maruti,Swift,,Faridabad,574200
+353,W8,2022,5,34029,1,Diesel,,Mahindra,XUV300,,Ahmedabad,1276320
+587,Zeta,2019,5,46610,1,Petrol,,Maruti,Baleno,,Krishnagiri,630863
+563,1.2 Kappa Asta,2016,5,65713,1,Petrol + CNG,,HYUNDAI,Grand i10,,Delhi,484703
+631,2.0 TDI,2013,12,,0,Diesel,,Audi,A6 2011-2015,,Bangalore,1952066
+266,VXI Opt,2018,9,62261,1,Petrol,,Maruti,WAGON R,,Chennai,499500
+358,V W POLO 1 0L MPI,2019,8,,0,Petrol,,Volkswagen,V W POLO 1 0L MPI,,Hyderabad,705434
+646,S,2022,10,30691,1,Petrol,,Hyundai,Venue,,Udaipur,903200
+565,Asta Opt,2018,5,35748,1,Petrol,,Hyundai,i20,,Mangaluru,660789
+289,RxL,2021,2,33395,1,Petrol,,Renault,Triber,,Pune,616665
+153,FORD FIGO ASPIRE 1 5D TIT,2017,10,,0,Diesel,,FORD INDIA P LTD,FORD FIGO ASPIRE 1 5D TIT,,Coimbatore,610473
+396,1.5 E MT,2015,7,49394,1,Petrol,,Honda,City,,Delhi,628097
+125,3.0 Diesel,2014,1,89380,1,Diesel,,Toyota,Fortuner,,Ludhiana,1577825
+195,RXL AWD,2014,1,30201,1,Petrol,,Renault,Duster,,Navi Mumbai,507000
+193,SMARTI HYBRID ZETA,2019,11,,0,Petrol,,Maruti,XL6,,Rajkot,873918
+270,RXE,2022,6,2720,1,Petrol,,Renault,Kiger,,Delhi,636600
+62,D75 K6 Plus,2016,10,75000,1,Petrol,,Mahindra,KUV 100,,Lucknow,343303
+404,HONDA BRIO 1 2 VXAT,2014,3,,0,Petrol,,HONDA CARS LTD,HONDA BRIO 1 2 VXAT,,Coimbatore,395943
+762,ASPIRE 1.5TDCI,2015,7,,0,Diesel,,Ford,FIGO,,Faridabad,268080
+330,5 Seater AC,2020,1,39175,1,Petrol + CNG,,Maruti,Eeco,,Thane,538000
+425,1.0 Ecoboost Titanium,2013,5,65789,1,Petrol,,Ford,EcoSport,,Sangli,424724
+543,VXI Optional,2019,2,35498,1,Petrol,,Maruti,Alto K10,,Udaipur,342894
+71,1.6 CRDI AT SX Option,2017,10,71810,1,Diesel,,Hyundai,Verna,,Karnataka,917200
+758,CNG 5 Seater AC,2018,2,74612,1,Petrol + CNG,,Maruti,Eeco,,Bhiwandi,453100
+519,Sportz 1.2,2018,1,22472,1,Petrol,,Hyundai,i20,,Udaipur,558000
+553,SX CRDi AT,2011,9,,0,Diesel,,Hyundai,Verna 2011-2014,,Hyderabad,525879
+667,TOUR S STD,2021,4,88281,1,Petrol + CNG,,Maruti,Swift Dzire,,Pune,609081
+233,GREEN LXI,2019,1,,0,Petrol,,MARUTI,ALTO 800,,New Delhi,350807
+770,Vxi,2020,1,53959,1,Petrol,,Maruti,Swift,,Chennai,677300
+547,Vxi,2021,10,36038,1,Petrol,,Maruti,Swift,,East Delhi,652756
+184,1.6 CRDi SX,2014,10,82150,1,Diesel,,Hyundai,Verna,,Surat,476200
+174,BOLERO POWER PLUS ZLX,2017,6,,0,Diesel,,Mahindra,BOLERO POWER PLUS ZLX,,Hyderabad,733137
+550,XUV 500 FWD W8,2014,8,,0,Diesel,,Mahindra,XUV 500 FWD W8,,Hyderabad,788930
+497,Vxi,2022,7,2191,1,Petrol,,Maruti,Celerio,,Salem,523921
+360,Vxi,2020,7,55703,1,Petrol + CNG,,Maruti,Swift,,Faridabad,613397
+564,85PS Diesel RxL,2015,5,,0,Diesel,,Renault,Duster 2015-2016,,Delhi,679750
+31,ZDI Plus,2017,9,85446,1,Diesel,,Maruti,Ertiga,,Jangaon,840400
+207,1.2 Revotron XZ,2019,5,34273,1,Petrol,,Tata,TIAGO,,Uttar Pradesh,480000
+576,LXi,2017,2,41631,1,Petrol + CNG,,Maruti,WAGON R,,Faridabad,337362
+366,LXI,2014,9,72973,1,Petrol,,Maruti,WAGON R,,Udaipur,400000
+528,Era Plus,2015,1,44255,1,Petrol,,Hyundai,EON,,Udaipur,274242
+114,LXI CNG,2018,3,,0,Petrol,,Maruti,Alto 800,,Rajkot,318839
+757,RXT,2015,12,,0,Petrol,,RENAULT,KWID,,Chennai,313520
+22,HYBRID DELTA,2017,4,123154,1,Diesel,,Maruti,Ciaz Hybrid,,Delhi,500878
+737,VDi,2014,11,76348,1,Diesel,,Maruti,Ciaz,,Bijapur,599000
+604,XZ,2021,6,18494,1,Petrol,,Tata,Altroz,,Udaipur,759772
+508,BREZZA VDI,2018,7,,0,Diesel,,Maruti,VITARA BREZZA VDI,,Thiruvadanai Tk,818367
+511,LXI CNG,2021,4,41145,1,Petrol + CNG,,Maruti,WAGON R,,Gurugram,639400
+140,CITY 1.5 SV MT,2016,1,,0,Diesel,,Honda,CITY 1.5 SV MT,,Kodad,815455
+232,EECO 5 SEATER WITH AC,2014,1,,0,Petrol,,Maruti,EECO 5 SEATER WITH AC,,Hyderabad,329985
+742,2.5 Z Diesel 7 Seater BS IV,2014,3,,0,Diesel,,Toyota,Innova,,Baner,1137581
+337,Delta,2019,3,82275,1,Petrol,,Maruti,Baleno,,Jaipur,670255
+301,1.5 Diesel Titanium,2016,11,44959,1,Diesel,,Ford,EcoSport,,Ludhiana,608684
+250,Eon Magna,2014,2,,0,Petrol,,Hyundai,Hyundai Eon Megna,,Tiruvallur,245282
+325,1.2 Revotron XT,2022,3,25384,1,Petrol + CNG,,Tata,Tiago,,Delhi,790400
+168,POLO 1 2 HIGHLINE,2014,10,,0,Petrol,,Volkswagen,Polo 1 2 HIGHLINE,,Coimbatore,504152
+336,1.5 S MT,2014,3,116560,1,Diesel,,Honda,City,,Chennai,595684
+30,1.1 CRDi Base,2014,4,86163,1,Diesel,,Hyundai,Xcent,,Bagalkot,449039
+441,EX 2.5M,2012,10,,0,Diesel,,MAHINDRA,SCORPIO,,Kurnool,376062
+10,VDi,2018,7,37647,1,Diesel,,Maruti,Dzire,,Villupuram,723300
+714,Verna FL 1 6 crdi  s,2016,6,,0,Diesel,,Hyundai,Verna FL 1 6 crdi  s,,Reddiyarpalayam,605986
+135,Sportz 1.2,2015,2,24047,1,Petrol,,Hyundai,Elite i20,,Airoli,440262
+36,Sportz IVT,2017,2,106036,1,Petrol,,Hyundai,i20,,Aurangabad,548764
+399,Asta,2014,7,,0,Petrol,,Hyundai,Grand i10 2013-2016,,MANSOORABAD,416999
+75,LXI CNG,2019,5,48004,1,Petrol + CNG,,Maruti,Wagon R,,Ghaziabad,494796
+7,VDI,2017,3,98259,1,Diesel,,Maruti,Swift Dzire,,Mahbubnagar,673773
+487,T,2015,1,67116,1,Petrol,,Datsun,GO,,Delhi,239349
+201,RXZ,2016,7,83869,1,Diesel,,Renault,Duster,,Villupuram,767300
+486,1.5 TDI Highline,2015,7,108971,1,Diesel,,Volkswagen,Polo,,Hyderabad,602000
+689,HECTOR GASOLINE 1.5 TCIC MT HYBRID SHARP,2020,5,,0,Petrol,,MG MOTOR INDIA PVT LTD,HECTOR GASOLINE 1.5 TCIC MT HYBRID SHARP,,Nizamabad,1655864
+8,S,2021,5,38211,1,Petrol,,Hyundai,Creta,,Baghpat,1268966
+608,1.5 Revotorq XMA,2018,4,127772,1,Diesel,,Tata,Nexon,,Faridabad,596948
+55,E i-DTEC,2013,6,87922,1,Diesel,,Honda,Amaze,,Agra,340500
+188,85PS Diesel RxZ,2018,4,80316,1,Diesel,,Renault,Duster,,Salem,1002500
+469,RAPID AMBITION TDI,2012,4,,0,Diesel,,Skoda,RAPID AMBITION TDI,,Hyderabad,435088
+592,2.5G,2013,10,118367,1,Diesel,,Toyota,INNOVA,,Pune,850426
+262,INNOVA CRYSTA 2.4 V8 SEATER,2017,10,,0,Diesel,,Toyota,INNOVA CRYSTA 2.4 V8 SEATER,,Hyderabad,1795594
+319,1.6 CRDi S Option,2015,7,59165,1,Diesel,,Hyundai,Verna,,Bengaluru,553326
+173,1.5 CRDI MT E,2022,1,30860,1,Diesel,,Hyundai,Creta,,Rohtak,1192776
+727,VX,2013,8,90350,1,Diesel,,Tata,Safari Storme,,Pune,539890
+433,HTK Plus D,2022,9,12531,1,Diesel,,Kia,Seltos,,Faridabad,1489900
+158,VXI CNG,2022,2,40700,1,Petrol + CNG,,Maruti,Ertiga,,Delhi,1023024
+735,CDI,2013,12,,0,Diesel,,Mercedes-Benz,C220,,Rajkot,1535977
+285,VXI,2014,1,,0,Petrol,,Maruti,Swift Dzire,,North East Delhi,530514
+562,LXI CNG,2022,10,16010,1,Petrol + CNG,,Maruti,WAGON R,,Pune,632500
+44,1.2 MPI Comfortline,2014,8,111421,1,Petrol,,Volkswagen,Polo,,Jamnagar,484740
+421,Vxi,2020,11,108034,1,Petrol,,Maruti,Swift,,Rajkot,632800
+64,M2,2018,9,65000,1,Diesel,,Mahindra,Marazzo,,Pune,848237
+557,1.2 Sportz,2018,2,19353,1,Petrol,,Hyundai,Grand i10,,Delhi,482494
+231,GTK,2019,8,18345,1,Petrol,,Kia,Seltos,,Gurgaon,1107383
+634,CNG LXI,2020,9,71750,1,Petrol + CNG,,Maruti,Wagon R,,Ghaziabad,516240
+87,VXI AT,2015,8,,0,Diesel,,Maruti,Swift Dzire,,Jaipur,640458
+493,VX,2014,4,95769,1,Diesel,,Tata,Safari,,Mumbai,552832
+450,AT W10 1.99 mHawk,2017,9,47232,1,Diesel,,Mahindra,XUV500,,Delhi,1281100
+54,Delta,2022,12,1228,1,Petrol,,Maruti,Baleno,,Ghaziabad,742398
+364,RXZ,2021,7,,0,Petrol,,RENAULT,TRIBER,,Jaipur,738170
+149,LXi,2020,9,59221,1,Petrol + CNG,,Maruti,SWIFT,,Palwal,532200
+5,1.2 VTVT SX,2016,8,38647,1,Petrol,,HYUNDAI,Xcent,,Coimbatore,436956
+656,HIGHLNE,2018,4,,0,Petrol,,Volkswagen,Polo,,Rajkot,712412
+38,W10,2015,7,,0,Diesel,,MAHINDRA,XUV5OO,,NEW DELHI,733685
+169,G80 K4 Plus,2016,6,,0,Petrol,,Mahindra,KUV 100,,Bangalore,306984
+532,LXi,2020,1,37634,1,Petrol,,Maruti,Swift,,Ghaziabad,510814
+616,7 SEATER W/O AC,2019,10,,0,Petrol + CNG,,Maruti,Eeco,,Karawal Nagar,383587
+415,1 2 MT Highline,2014,1,,0,Petrol,,VOLKSWAGEN,POLO,,Tiruvallur,500268
+227,ZDi Plus,2019,5,60639,1,Diesel,,Maruti,Ertiga,,Mahabubnagar,908899
+538,VXi AT,2019,6,41235,1,Petrol,,Maruti,Swift,,Udaipur,625400
+409,1.5 V MT,2017,2,53400,1,Petrol,,Honda,City,,Bangalore,783021
+495,1.2 Sportz,2016,11,93798,1,Petrol,,Hyundai,i20,,Rajsamand,595700
+82,1.6 VTVT S,2016,7,68653,1,Petrol,,Hyundai,Creta,,Delhi,846585
+35,SX,2021,12,23652,1,Petrol,,Hyundai,Verna,,Ludhiana,1120784
+498,SX Diesel,2022,1,30426,1,Diesel,,Hyundai,Venue,,Arni,1138050
+624,VXI AMT,2015,3,64173,1,Petrol,,Maruti,WAGON R,,Jaipur,360000
+120,Revotron 1.2T XM,2016,6,52632,1,Petrol,,Tata,Zest,,Pune,500000
+138,GD,2016,10,71173,1,Diesel,,Toyota,Etios Liva,,Puducherry,515500
+237,Sportz,2014,2,68729,1,Diesel,,Hyundai,i20,,Shimoga,442900
+630,i-DTEC VX,2014,4,99654,1,Diesel,,Honda,City,,Salem,724052
+25,i-DTEC V,2015,1,48742,1,Diesel,,Honda,City,,Jaipur,643000
+412,S11,2022,2,21819,1,Diesel,,Mahindra,Scorpio,,Panipat,1684300
+687,1.2 TSI,2019,12,,0,Petrol,,Volkswagen,POLO GT,,Bangalore,1011945
+361,Vxi,2022,3,15234,1,Petrol,,Maruti,Swift,,Faridabad,680500
+544,1.5D TIT,2013,1,,0,Diesel,,Ford,EcoSport 2013-2015,,Chitradurga,588536
+728,VX,2021,1,47261,1,Diesel,,Tata,Safari,,Andheri West,2051600
+146,VXI 1.2,2019,5,26033,1,Petrol,,Maruti,Dzire,,Surat,639070
+384,XZ BSIV,2019,11,69304,1,Diesel,,Tata,Harrier,,Ulundurpet,1664500
+655,VXI,2019,10,,0,Petrol,,Maruti,SWIFT,,Rajkot,749875
